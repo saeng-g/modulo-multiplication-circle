@@ -6,6 +6,7 @@
     <string>English</string>
     <key>CFBundleExecutable</key>
     <string>main</string>
+    <key>CFBundleIconFile</key>
     <string>sketch.icns</string>
     <key>CFBundleIdentifier</key>
     <string>main</string>
